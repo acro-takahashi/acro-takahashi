@@ -5,7 +5,7 @@ https://github.com/acro-takahashi/html-and-css
 https://github.com/acro-takahashi/Testmove  
 https://github.com/acro-takahashi/TestUpload
 
-# Java
+# Java勉強用メモ
 変数とfor文  
 https://paiza.io/projects/rXOW3xphvtrAQSZdR6vxMA  
 var変数  
