@@ -9,6 +9,8 @@ No.1
 # Javascript
 https://github.com/acro-takahashi/Javascript  
 No.1:[ランダム配置を探す](https://acro-takahashi.github.io/Javascript/No.1/)  
+![Javascript_1](https://user-images.githubusercontent.com/91651462/137687394-0745827c-5cf7-4c11-9873-c8702fd5ccd5.gif)
+
 # unity
 https://github.com/acro-takahashi/Testmove  
 ・[的に弾を当てる](https://acro-takahashi.github.io/Testmove/)  
