@@ -15,9 +15,9 @@ No.1:[ランダム配置を探す](https://acro-takahashi.github.io/Javascript/N
 
 # unity
 https://github.com/acro-takahashi/Testmove  
-・[的に弾を当てる](https://acro-takahashi.github.io/Testmove/)  
+・[WebGL：的に弾を当てるTPS](https://acro-takahashi.github.io/Testmove/)  
 https://github.com/acro-takahashi/TestUpload  
-・[マルチTPS（チャットで「@ help」で操作方法一覧](https://acro-takahashi.github.io/TestUpload/)
+・[WebGL：マルチTPS（チャットで「@ help」で操作方法一覧）](https://acro-takahashi.github.io/TestUpload/)
 
 # Java勉強用メモ
 [変数とfor文](https://paiza.io/projects/rXOW3xphvtrAQSZdR6vxMA)  
