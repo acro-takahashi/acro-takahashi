@@ -27,4 +27,5 @@ https://github.com/acro-takahashi/TestUpload
 [名称一覧](https://paiza.io/projects/_nAVhY7KD_3wc-aAfwAfjA)  
 [static変数](https://paiza.io/projects/IaGUECUV9KlFND9RYwnouQ?language=java)  
 [イニシャライザ](https://paiza.io/projects/q5gickrrvSUCbPi6bgkl7g?language=java)  
-[staticインポート](https://paiza.io/projects/DvjrJn6aGtYlJ3NLV6ptNQ?language=java)
+[staticインポート](https://paiza.io/projects/DvjrJn6aGtYlJ3NLV6ptNQ?language=java)  
+[拡張for文](https://paiza.io/projects/fbdXo44fd1LOQqlLxFOWGw)
