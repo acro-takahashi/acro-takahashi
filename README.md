@@ -15,7 +15,7 @@ No.1:[ランダム配置を探す](https://acro-takahashi.github.io/Javascript/N
 
 # unity
 https://github.com/acro-takahashi/Testmove  
-・[WebGL：的に弾を当てるTPS](https://acro-takahashi.github.io/Testmove/)  
+・[WebGL：的に弾を当てるTPS～勉強初日成果](https://acro-takahashi.github.io/Testmove/)  
 https://github.com/acro-takahashi/TestUpload  
 ・[WebGL：マルチTPS](https://unityroom.com/games/customtest)
 
